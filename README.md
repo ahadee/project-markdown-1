@@ -1,6 +1,6 @@
 # Project Z
 ##  By: Umbrella Company 
-![Umbrella Logo](assets/images/umbrella.jpg)
+![Umbrella Logo](./assets/images/umbrella.jpg)
 ### A project to find vaccine for COVID-19
 
 As you all know, **COVID-19** or people know it as _Corona_ virus, has been attacking people from all around the world. This virus was founded first time in China in February 2020. Up until now, the _Corona_ virus still does not have the cure and the numbe of people that have been infected from all around the world are increasing everyday. A new information from **World Health Organization** (WHO) site says that there are about 168,019 confirmed cases with 6,610 deaths in 148 countries. Therefore, we, as a company who really care about the health of the world, want to make project to find a cure of **COVID-19** virus.
